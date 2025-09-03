@@ -1,7 +1,10 @@
 import '/flutter_flow/flutter_flow_theme.dart';
 import '/flutter_flow/flutter_flow_util.dart';
 import '/flutter_flow/flutter_flow_widgets.dart';
+<<<<<<< HEAD
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
+=======
+>>>>>>> 637a25698e29cf4ed501d08d19b553933cf724dc
 import 'dart:ui';
 import '/index.dart';
 import 'package:flutter/material.dart';
@@ -596,7 +599,11 @@ class _ProfileSettingsWidgetState extends State<ProfileSettingsWidget> {
                         'p7rvp220' /* Contact Support via WhatsApp */,
                       ),
                       icon: Icon(
+<<<<<<< HEAD
                         FontAwesomeIcons.whatsapp,
+=======
+                        Icons.whatsapp,
+>>>>>>> 637a25698e29cf4ed501d08d19b553933cf724dc
                         size: 24.0,
                       ),
                       options: FFButtonOptions(
